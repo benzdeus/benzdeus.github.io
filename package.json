@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "./build",
+  "homepage": "https://benzdeus.github.io/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
